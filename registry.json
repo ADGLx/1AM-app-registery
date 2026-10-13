@@ -141,6 +141,16 @@
       "featured": true,
       "new": true
     },
+        {
+      "id": "northstar-dex-mainnet-beta",
+      "name": "NorthStar DEX",
+      "description": "Privacy-first DEX on Midnight mainnet (beta)",
+      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/northstar-dex.png",
+      "url": "https://beta.northstardex.com",
+      "category": "defi",
+      "networks": ["mainnet"],
+      "new": true
+    },
     {
       "id": "galaxyswap",
       "name": "GalaxySwap",
